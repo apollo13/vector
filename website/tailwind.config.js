@@ -336,6 +336,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
+        'NationalWeb',
         '"Segoe UI"', // Non-default primary sans font
         'ui-sans-serif',
         'system-ui',
